@@ -5,6 +5,8 @@ I did a talk at MelbJS May 2014 to accompany the demo. It covers the basics of L
 
 ##How to play it
 
+If you have a controller plugged in, try it out here: http://noogn.github.io/leapjs-instrument/
+
 * Weird laser - swipe gesture (left)
 * Weird laser 2 - swipe gesture (right)
 * Wobbulating theremin 1 - on the left side of the controller, move hand towards and past it
